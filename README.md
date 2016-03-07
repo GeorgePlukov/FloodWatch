@@ -1,6 +1,6 @@
 # FloodWatch
 FloodWatch is a real time natural disaster early warning system. It provides simple and useful data over a wide area for researchers to track natural disaster events in real time and can serve as an early warning system in the hopes of saving lives. It was created for DeltaHacks 2 (Jan 2016) and won second place at the competition! 
-![test](winners.jpg)
+![test](winners.jpg = 300x200)
 A large problem that current sensor networks have is that the data they collect is not easily accessable. Many times researchers will have to go out in the field to manually collect data from these devices before it is overwritten and lost. This is a very costly effort, however with floodwatch using radio transmission in a network allows all data to be piplined straight to a base station. This saves a lot of time and means no one will need to go into hazardous zones to collect data.
 
 ###How does Floodwatch work?
