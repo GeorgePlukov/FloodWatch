@@ -22,5 +22,10 @@ The base module is simply a computer that will allow all the data read by the se
 ## Images
 Below there are a few diagrams of the circuitry involved in setting up the modules, and how the modules look in person!
 <img src="Arduino-XBee-Schematic.jpg" width="80%">
+This is the diagram of the schematic we used to attatch the XBee modules to the arduino and the basic layout we are using for sensors.
+
+
+<img src="module.jpg" width="80%">
+This is an image of how large the actual modules are when completed
 
  
