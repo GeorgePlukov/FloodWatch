@@ -31,5 +31,5 @@ This is the diagram of the schematic we used to attach the XBee modules to the A
 <img src="module.jpg" width="80%">
 
 
-This is an image of how large the actual modules are when completed
+This is an image of how large the actual modules are when completed. Included in this image is the Arduino connected to the XBee, included with this owuld be any sensors needed.
 
